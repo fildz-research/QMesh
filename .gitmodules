@@ -4,3 +4,6 @@
 [submodule "STL"]
 	path = STL
 	url = https://github.com/fildz-research/QMesh-STL.git
+[submodule "3MF"]
+	path = 3MF
+	url = https://github.com/fildz-research/QMesh-3MF.git
