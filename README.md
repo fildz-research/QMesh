@@ -4,11 +4,22 @@
 
 QMesh (QuasiMesh) presents the concept of multifunctional surfaces created via fused deposition modeling (FDM) technology.
 
+## Requirements
+| **Requirement** | **Required** | **Comment** |
+| --- | :---: | --- |
+| Pre-work preparation | :red_circle: | *No preparations required before work*. |
+| CAD software | :red_circle: | *No CAD software required*. |
+| G-code post-processing | :red_circle: | *No G-code modifications required*. |
+| Post-processing | :red_circle: | *No post-processing required*. |
+| Filament compatibility | :green_circle: | *Supports all traditional filaments*. |
+
+Project difficulty: ***EASY*** :suspect:
+
 ## Features
-* Supports traditional filaments like PLA.
-* No G-code modifications required.
-* No computer-aided design (CAD) software needed.
 * Adjust extrusion multiplier and infill density to define how thick and porous or sparse and soft mesh will be.
+
+## Applications
+To-do
 
 ## Setup
 Hardware: Prusa MK3S+\
