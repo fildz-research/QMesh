@@ -7,10 +7,10 @@ QMesh (QuasiMesh) presents the concept of multifunctional surfaces created via f
 ## Requirements
 | **Requirement** | **Required** | **Comment** |
 | --- | :---: | --- |
-| Pre-work preparation | :red_circle: | *No preparations required before work*. |
-| CAD software | :red_circle: | *No CAD software required*. |
-| G-code post-processing | :red_circle: | *No G-code modifications required*. |
-| Post-processing | :red_circle: | *No post-processing required*. |
+| Pre-work preparation | :green_circle: | *No preparations required before work*. |
+| CAD software | :green_circle: | *No CAD software required*. |
+| G-code post-processing | :green_circle: | *No G-code modifications required*. |
+| Post-processing | :green_circle: | *No post-processing required*. |
 | Filament compatibility | :green_circle: | *Supports all traditional filaments*. |
 
 Project difficulty: ***EASY*** :suspect:
